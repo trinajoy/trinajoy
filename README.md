@@ -1,7 +1,6 @@
  
-- Im working on various projects with HTML, CSS, Javascript & jQuery.
+- Im working on various projects with HTML, CSS, Javascript & React.
 
-- Im currently learning React, PHP and MySQL.
 
 
 
